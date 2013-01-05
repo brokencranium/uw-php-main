@@ -94,7 +94,7 @@ Classroom students may attend two sessions online during the course with instruc
      *    Lesson 6:  Session, Authentication and Acl (Access control list)
      *    Lesson 7:  Writing and Consuming Web Service & API
      *    Lesson 8:  Design pattern and framework design
-     *    Lesson 9:  Application Framework
+     *    Lesson 9:  Application Framework introduction
      *    Lesson 10: Build, deployment and version control
 
 ### About the Assignments
@@ -102,12 +102,12 @@ There are 5 assignments in this course. Instructions and specific guidelines are
 
 Assignment list:
 
-     *    Develop a web interface that interfaces with the chosen (Facebook, Twitter, GitHub) API.     (Weeks 1 - 2)
+     *    Develop a web interface that interfaces with the chosen (Facebook, Twitter, GitHub) API.      (Weeks 1 - 2)
      *    Implement a login system based upon 1st assignmnt.                                            (Weeks 3 - 5)
      *    Refactor your application by analyzing the application to identify bottlenecks, log down      (Weeks 6 - 8 )
           errors with proper your own logger, improve error handling and use at least two design
           patterns.
-     *    Design a small library that does any of these: validation, mvc framework, logging, crypto    (Week 9 )
+     *    Design a small library that does any of these: validation, mvc framework, logging, crypto     (Week 9 )
                                                          caching, or anything you find interesting.
      *    Final project - set up CI server, deployment process, archive for great code coverage.
 
@@ -122,9 +122,6 @@ Written assignments will be uploaded to your GitHub repository (preferred) or as
             * Documentation (e.g., what this project does, how to run unit test, high level architecture, future roadmap etc)
 
 ### About the Course Project
-
-TBD
-
 Assessment and Grading
 This course is either Successful/Unsuccessful completion. In order to pass, a student must:
 

@@ -11,4 +11,4 @@ Required readings:
 - PHP interface: (http://php.net/manual/en/language.oop5.interfaces.php)
 
 Assignment:
-See assignment1.md (assignment1.md)
+See assignment1.md (https://github.com/jayzeng/UW-PHP-course/blob/master/lecture/assignment1.md)

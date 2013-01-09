@@ -8,7 +8,7 @@ The core focus of this assignment is to help you gain a deeper understanding of 
                 /
              Civic
 
-``php
+```php
 <?php
 /**
  * Abstract class to represent vehicle
@@ -58,5 +58,5 @@ Note:
 How to submit your code:
 ============
 You have two options to submit your solution:
-- Zip up your files and email to Jay Zeng <jayzeng@jay-zeng.com> and Curtis Jurgensen <curtisj44@gmail.com>
+- Zip up your files and email to Jay Zeng (jayzeng@jay-zeng.com) and Curtis Jurgensen (curtisj44@gmail.com)
 - Create a (private or public) repository on Github, send me the url of your repository (You will get bonus point!)

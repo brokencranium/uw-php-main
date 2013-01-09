@@ -51,7 +51,7 @@ Required Texts
      Wrox (May 10, 2011). ISBN-13: 978-0470872499
 
 Recommended Texts
-
+     *   Professional PHP6 (Wrox Programmer to Programmer) (ISBN: 0470395095)
      *   xUnit Test Patterns: Refactoring Test Code, 5th ed. (Addison-Wesley, 2007 ISBN: 0131495054)
      *   Head First Object-Oriented Analysis and Design (O'Reilly, 2006 ISBN 0596008678)
 

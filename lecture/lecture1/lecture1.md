@@ -1,6 +1,6 @@
 Lecture slide:
 #####
-https://docs.google.com/a/jay-zeng.com/presentation/d/1ISp4V3EQSXbKXPrWyQG6Ai03ex5k_RfGazfl01laeNc/edit#slide=id.g536c800b_0_126
+https://docs.google.com/presentation/pub?id=1ISp4V3EQSXbKXPrWyQG6Ai03ex5k_RfGazfl01laeNc&start=false&loop=false&delayms=3000
 
 Required readings:
 - Introduction to Git (http://learn.github.com/p/intro.html)

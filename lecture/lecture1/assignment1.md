@@ -41,7 +41,7 @@ What do you need to do?
         - Civic will return a string 'honk honk'
 
 You are welcome and encouraged to make your classes more real-world by providing more functionalities and/or
-have other objects to represent other types of vehicles.
+create other objects to represent other types of vehicles.
 
 In the end, you should (at least) have the following files:
 - Vehicle.php
@@ -55,8 +55,13 @@ Note:
 - Each class should have a high level class doc that documents what this class does
 - Each method (regardless whether it is public/protected/private) should have a method docblock
 
+Due day?
+============
+Please submit your files by Sunday January 12, 2013.
+
 How to submit your code:
 ============
-You have two options to submit your solution:
+You have three options to submit your solution:
+- Submit your files through course website (moodle)
 - Zip up your files and email to Jay Zeng (jayzeng@jay-zeng.com) and Curtis Jurgensen (curtisj44@gmail.com)
 - Create a (private or public) repository on Github, send me the url of your repository (You will get bonus point!)

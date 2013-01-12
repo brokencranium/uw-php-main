@@ -57,7 +57,7 @@ Note:
 
 Due day?
 ============
-Please submit your files by Sunday January 12, 2013.
+Please submit your files by Sunday January 19, 2013.
 
 How to submit your code:
 ============

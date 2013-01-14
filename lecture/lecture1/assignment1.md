@@ -32,12 +32,12 @@ abstract class Vehicle
 
 What do you need to do?
 ============
-- Implement Three sub-classes: Car, Civic and Trunk. They should all implement the base class Vehicle
+- Implement Three sub-classes: Car, Civic and Truck. Car and Truck should implement the base class Vehicle. Civic should derive from the Car class.
 - Declare an interface named VehicleInterface, with a method called honk().
 - For each of the sub-class
     - Provide getYear() and setYear() methods that allow client code to set/get year
     - Implment the honk() in VehicleInterface
-        - Car and Trunk class will return an empty string
+        - Car and Truck class will return an empty string
         - Civic will return a string 'honk honk'
 
 You are welcome and encouraged to make your classes more real-world by providing more functionalities and/or
@@ -48,7 +48,7 @@ In the end, you should (at least) have the following files:
 - VehicleInterface.php
 - Car.php
 - Civic.php
-- Trunk.php
+- Truck.php
 - README.md
 
 Note:

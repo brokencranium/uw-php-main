@@ -10,6 +10,7 @@ This is part 2 of assignment 1 (https://github.com/jayzeng/UW-PHP-course/blob/ma
 simple project.
 
 Now, the project should look like:
+```
 - Src/
     - Vehicle.php
     - VehicleInterface.php
@@ -27,6 +28,7 @@ Now, the project should look like:
 - Bootstrap.php   takes care autoloading
 - composer.json   Sets up autoloading, dependency (phpunit)
 - README.md       What this project is, how to run composer to install dependencies, how to run unit tests
+```
 
 Due day?
 ============

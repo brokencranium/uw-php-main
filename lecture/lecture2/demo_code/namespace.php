@@ -1,0 +1,5 @@
+<?php
+
+// Illustrate PHP namespace
+
+?>

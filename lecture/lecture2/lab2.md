@@ -5,7 +5,7 @@ This lab contains two parts:
 Part 1:
 ============
 PHP provide isset() and empty() to detect whether a variable is empty or isset, but it is very confusing. Let's implement a
-String utility object (with namespace Util) with a function named isNullOrEmpty() (yes, I steal it from C# :) ). For simplicity reason, this function
+String utility object with a function named isNullOrEmpty() (yes, I steal it from C# :) ). For simplicity reason, this function
 only accepts string and any other data type will not be accepted (an InvalidArgumentException will be thrown)
 
 ```
